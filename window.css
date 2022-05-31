@@ -1,0 +1,14 @@
+*{margin: 0;}
+.bg1{background-color: aqua;}
+.bg2{background-color: aquamarine;}
+.bg3{background-color: blueviolet;}
+.bg4{background-color: burlywood;}
+.fl{float: left;}
+.fr{float: right;}
+.wrapper{height: 80vh;margin: 10vh 6%;}
+.new{ float: left; margin-left: 1%;}
+.col-box{width: 23.25%;height: 80vh;}
+.box{height: 19vh;margin-bottom: 1.2vh;}
+.sub-box{width: 49%;height: 19.2vh;}
+.big-box{height: 39.4vh; margin-bottom: 1vh;}
+.small-box{ height: 9.85vh; margin-bottom: 0.1vh; width: 24.2%;}
