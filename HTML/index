@@ -1,0 +1,62 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <title>First Web</title>
+</head>
+<body>
+    <table border="0" width="100%" cellspacing="10px" cellpadding="5px" >
+        <tr>
+            <!-- first row -->
+            <td bgcolor="blue" colspan="5" height="100px">
+            <h1> &nbsp;&nbsp; Welcome to HTML </h1>
+            </td>
+        </tr>
+        <tr align="center">
+            <!-- second row -->
+            <td bgcolor="orange" width="20%" height="40px" >Home</td>
+            <td bgcolor="orange" width="20%" >HTML DOC</td>
+            <td bgcolor="orange" width="20%" >CSS DOC</td>
+            <td bgcolor="orange" width="20%" >JAVASCRIPT</td>
+            <td bgcolor="orange" width="20%" >JQUERY DOC</td>
+        </tr>
+        <tr valign="top" >
+            <td colspan="4" width="80%" height="550px" >
+                <img src="images/html.jpeg.jfif" width="100%" height="600px" alt="">
+                <hr>
+                <h2>Welcome to Client side Language.</h2>
+                <hr>
+                <p align="justify" > Lorem ipsum dolor sit amet consectetur, adipisicing elit. Blanditiis laborum suscipit iste alias vel! Dolorem, iusto enim. Expedita, quam? Aliquam ea deserunt tempora voluptatibus labore accusamus sequi aspernatur, iste in ut facilis, incidunt magni. Delectus earum hic beatae aperiam, officia dolorem, aspernatur in consequuntur blanditiis, magnam sapiente deleniti molestias amet rerum doloribus ab obcaecati? Et placeat dolorum hic tempora consequatur ut exercitationem eligendi magni, quos harum id sit, veniam optio sapiente inventore a necessitatibus perferendis sint totam doloribus repellat at velit nulla deleniti! Illum, minus ducimus. Eveniet pariatur quidem in accusamus dolore hic ea sint quibusdam quas quaerat et beatae sequi at nobis tempora minus sapiente reiciendis vel sed officiis itaque, optio aspernatur debitis? Quasi sed nesciunt architecto neque facilis quis rerum, quam impedit accusantium quaerat eligendi ratione nisi. Dicta recusandae, beatae animi iste qui cupiditate, possimus, vel sequi dolor impedit optio modi perferendis architecto quae quia unde dolore esse commodi excepturi atque? Laborum quod asperiores odit veniam repellendus assumenda obcaecati ex enim praesentium facere, necessitatibus quis dicta vel iusto corporis? Numquam fuga nostrum porro, est laboriosam, quo libero rem, error necessitatibus in dolor aut. Unde voluptatum libero, consequuntur inventore ut eligendi perspiciatis, aperiam consectetur esse quidem aliquam debitis quam aspernatur necessitatibus odit! Saepe pariatur vero ad vel atque tenetur eligendi. Qui, quos doloribus. Reprehenderit ducimus cum quas corporis nisi, necessitatibus a, voluptate cupiditate voluptatibus magni id, praesentium blanditiis itaque aperiam soluta temporibus sit. Dolore, unde culpa. Similique magni animi sint, eum delectus tenetur odit porro voluptatibus culpa tempore quisquam placeat nostrum totam. Eius debitis quasi distinctio, accusantium, voluptates quidem illum sint doloribus saepe obcaecati vel sunt, quo minima vero vitae! In ab mollitia officia qui incidunt porro neque possimus perspiciatis dolore obcaecati! Cumque, suscipit nulla? Assumenda pariatur, qui necessitatibus ad ducimus et excepturi porro quos! Soluta labore suscipit mollitia? </p>
+                <hr>
+                <h3>Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, deserunt?</h3>
+                <hr>
+                 <p align="justify" >Lorem ipsum dolor, sit amet consectetur adipisicing elit. Explicabo sit harum adipisci veniam, fugiat animi magnam voluptatem alias expedita beatae laborum tempora similique et voluptatum saepe possimus voluptate quasi corrupti tenetur temporibus vero neque sint incidunt! Aperiam magnam rem ipsam, possimus voluptate vitae inventore, necessitatibus assumenda voluptates aut aliquid quidem esse facilis quam nihil fuga non voluptatum pariatur nam. Facere voluptate pariatur illo corrupti, recusandae exercitationem dolorem aliquam ipsa qui dicta saepe officiis quasi quia autem quod praesentium cupiditate mollitia ex perferendis, eligendi in. Aperiam quidem dolore aliquam asperiores. Atque perferendis placeat ratione earum dolor sed? Exercitationem tempore, consequatur incidunt repellat eum magnam porro earum dolorem error, voluptatem sapiente, et quia iste impedit adipisci quo totam cum ut nulla tempora! Vero similique fuga reprehenderit inventore voluptas quas delectus tempore distinctio dolore, iusto reiciendis corrupti possimus. Ab dolores nobis necessitatibus vel ipsa impedit, accusamus aut veritatis nesciunt minima animi dolorem. Iste, dicta aliquid ducimus nam ipsa quo est possimus tempore consequatur voluptatem animi doloremque, mollitia dolorum ea saepe odio sint quam? Consequuntur assumenda totam fugit illum nisi sint doloremque dolores odio voluptate sapiente, id qui, fuga sit? Iste earum veniam, a sequi fugit eius quas vitae voluptatum. Tenetur commodi quaerat rerum eaque, vero numquam quasi ipsa cum porro unde illo doloremque. Odit soluta esse fuga at rerum ipsa excepturi ipsam, quisquam modi est omnis ullam, quidem voluptas earum ut. Repellendus commodi assumenda beatae consectetur, quaerat totam qui sit porro. Odit doloremque temporibus quibusdam inventore suscipit quas nemo, porro saepe ab dignissimos. Neque facere ut dolore, dolorum fuga illo assumenda iusto dolores eveniet mollitia voluptatibus reiciendis temporibus incidunt nobis ipsam. Pariatur molestiae, architecto repellendus suscipit dolor tenetur aliquam, eum fuga at doloribus nam. Labore atque nulla, qui earum fuga optio dicta delectus! Nemo architecto optio nihil, commodi tempora nostrum alias perspiciatis deserunt.</p> </td>
+                 <td colspan="1" width="20%">
+                    <hr>
+                    <marquee>
+                            <h3>Welcome to Template</h3>
+                    </marquee>
+                    <hr>
+                    <img src="images/html2.jfif" width="100%" alt="">
+                    <hr>
+                    <h3>Join Online Trainning</h3>
+                    <hr>
+                    <p> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Porro repudiandae culpa praesentium, debitis, quisquam sequi facilis laboriosam quod voluptates at corporis adipisci magni totam molestias quaerat voluptatum enim, eum sit ut voluptate! Voluptatibus repellat incidunt eligendi molestiae sunt explicabo, veniam ullam excepturi at perferendis velit fugit praesentium delectus maiores vel, provident debitis nesciunt laborum beatae! Quos officia asperiores quibusdam dolorem ad quam temporibus praesentium vitae vero debitis, nobis magni suscipit quaerat at incidunt pariatur. Asperiores sed quibusdam molestias quisquam facilis iste repellat harum quaerat sunt facere quasi, adipisci ipsam. Aliquid laboriosam assumenda modi deserunt harum, quae maiores iure ipsa consequuntur! Eaque expedita illum ipsa laudantium, sint corporis quod at, magni maxime voluptatibus earum doloribus molestiae? Nulla temporibus omnis soluta, debitis molestiae error. Cupiditate aspernatur porro excepturi necessitatibus id molestias quibusdam sunt fugiat quia aperiam laudantium, est expedita quis ratione explicabo cum ad molestiae, reiciendis nostrum voluptates in? Consequatur, obcaecati consectetur.</p>
+    
+                </td>
+                </tr>
+      
+            <!-- third row -->
+            
+        <tr>
+            <!-- fourth row -->
+            <td bgcolor="blue" align="center" height="80px" colspan="5">Copyright &copy; 2021-2022 </td>
+        </tr>
+    </table>
+</body>
+</html>
